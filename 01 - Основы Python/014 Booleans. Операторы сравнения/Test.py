@@ -1,0 +1,8 @@
+print(1 > 2)
+print(1 == 1)
+print('Hello' == 'Hello')
+print('Hello' == 'hello')
+print(1 != 1)
+print('Hello' != 'hello')
+print(1 >= 2)
+print(1 <= 2)
